@@ -1,0 +1,5 @@
+export const A1 = '#211940'
+export const A2 = '#5C548A'
+export const A3 = '#9B87BC'
+export const A4 = '#B897C1'
+export const A5 = '#D9B3CA'
